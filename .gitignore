@@ -55,3 +55,19 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Ignore SOM_PAK source and binaries
+sompak/src/*
+sompak/bin/header.ps
+sompak/bin/lininit
+sompak/bin/mapinit
+sompak/bin/planes
+sompak/bin/qerror
+sompak/bin/randinit
+sompak/bin/sammon
+sompak/bin/umat
+sompak/bin/vcal
+sompak/bin/vfind
+sompak/bin/visual
+sompak/bin/vsom
+
